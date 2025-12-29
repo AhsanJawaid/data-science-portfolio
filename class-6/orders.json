@@ -1,0 +1,200 @@
+{"order_id":1,"customer_id":1071.0,"product_id":131,"quantity":2,"order_date":1693440000000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":2,"customer_id":1088.0,"product_id":133,"quantity":3,"order_date":1686787200000,"payment_method":"Credit Card","status":""}
+{"order_id":3,"customer_id":1083.0,"product_id":133,"quantity":2,"order_date":1684972800000,"payment_method":"Debit Card","status":"Pending"}
+{"order_id":4,"customer_id":1099.0,"product_id":130,"quantity":1,"order_date":1702944000000,"payment_method":"PayPal","status":""}
+{"order_id":5,"customer_id":1028.0,"product_id":144,"quantity":4,"order_date":1683676800000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":6,"customer_id":1086.0,"product_id":143,"quantity":4,"order_date":1700611200000,"payment_method":"Credit Card","status":""}
+{"order_id":7,"customer_id":1090.0,"product_id":110,"quantity":2,"order_date":1703030400000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":8,"customer_id":1082.0,"product_id":116,"quantity":-1,"order_date":1701475200000,"payment_method":"","status":"Returned"}
+{"order_id":9,"customer_id":1071.0,"product_id":999,"quantity":3,"order_date":1679529600000,"payment_method":"Credit Card","status":""}
+{"order_id":10,"customer_id":1072.0,"product_id":106,"quantity":1,"order_date":1691280000000,"payment_method":"PayPal","status":"Returned"}
+{"order_id":11,"customer_id":1083.0,"product_id":104,"quantity":-1,"order_date":1694131200000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":12,"customer_id":1013.0,"product_id":122,"quantity":4,"order_date":1678752000000,"payment_method":"Credit Card","status":"Returned"}
+{"order_id":13,"customer_id":1076.0,"product_id":142,"quantity":1,"order_date":1701043200000,"payment_method":"","status":"Completed"}
+{"order_id":14,"customer_id":1016.0,"product_id":140,"quantity":3,"order_date":1700611200000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":15,"customer_id":1037.0,"product_id":115,"quantity":2,"order_date":1735689600000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":16,"customer_id":1090.0,"product_id":115,"quantity":-1,"order_date":1681171200000,"payment_method":"Credit Card","status":"Pending"}
+{"order_id":17,"customer_id":"?","product_id":143,"quantity":3,"order_date":1692921600000,"payment_method":"","status":"Returned"}
+{"order_id":18,"customer_id":1045.0,"product_id":112,"quantity":1,"order_date":1692144000000,"payment_method":"","status":"Cancelled"}
+{"order_id":19,"customer_id":1075.0,"product_id":123,"quantity":-1,"order_date":1696896000000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":20,"customer_id":1091.0,"product_id":132,"quantity":4,"order_date":1689984000000,"payment_method":"Debit Card","status":""}
+{"order_id":21,"customer_id":"?","product_id":115,"quantity":1,"order_date":1673136000000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":22,"customer_id":null,"product_id":140,"quantity":1,"order_date":1676764800000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":23,"customer_id":1050.0,"product_id":145,"quantity":2,"order_date":1679356800000,"payment_method":"","status":"Returned"}
+{"order_id":24,"customer_id":"?","product_id":140,"quantity":1,"order_date":1684195200000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":25,"customer_id":1034.0,"product_id":146,"quantity":3,"order_date":1686355200000,"payment_method":"Credit Card","status":"Pending"}
+{"order_id":26,"customer_id":1049.0,"product_id":123,"quantity":4,"order_date":1695081600000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":27,"customer_id":1067.0,"product_id":127,"quantity":4,"order_date":1676419200000,"payment_method":"PayPal","status":"Cancelled"}
+{"order_id":28,"customer_id":1062.0,"product_id":130,"quantity":-1,"order_date":1687824000000,"payment_method":"PayPal","status":""}
+{"order_id":29,"customer_id":null,"product_id":101,"quantity":2,"order_date":1702771200000,"payment_method":"","status":"Cancelled"}
+{"order_id":30,"customer_id":1031.0,"product_id":104,"quantity":1,"order_date":1696204800000,"payment_method":"Debit Card","status":""}
+{"order_id":31,"customer_id":1091.0,"product_id":115,"quantity":4,"order_date":1697587200000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":32,"customer_id":1014.0,"product_id":103,"quantity":4,"order_date":1673481600000,"payment_method":"Credit Card","status":"Returned"}
+{"order_id":33,"customer_id":1063.0,"product_id":104,"quantity":3,"order_date":1685232000000,"payment_method":"","status":"Cancelled"}
+{"order_id":34,"customer_id":1092.0,"product_id":146,"quantity":4,"order_date":1696636800000,"payment_method":"","status":"Returned"}
+{"order_id":35,"customer_id":1006.0,"product_id":103,"quantity":-1,"order_date":1698969600000,"payment_method":"Credit Card","status":"Pending"}
+{"order_id":36,"customer_id":"?","product_id":135,"quantity":1,"order_date":1690934400000,"payment_method":"Debit Card","status":""}
+{"order_id":37,"customer_id":1096.0,"product_id":110,"quantity":2,"order_date":1700092800000,"payment_method":"","status":"Cancelled"}
+{"order_id":38,"customer_id":1015.0,"product_id":145,"quantity":2,"order_date":1694044800000,"payment_method":"","status":""}
+{"order_id":39,"customer_id":1059.0,"product_id":149,"quantity":1,"order_date":1688774400000,"payment_method":"","status":""}
+{"order_id":40,"customer_id":1038.0,"product_id":147,"quantity":2,"order_date":1689897600000,"payment_method":"","status":""}
+{"order_id":41,"customer_id":1034.0,"product_id":107,"quantity":4,"order_date":1691971200000,"payment_method":"","status":"Completed"}
+{"order_id":42,"customer_id":1064.0,"product_id":125,"quantity":1,"order_date":1681516800000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":43,"customer_id":1053.0,"product_id":110,"quantity":3,"order_date":1681171200000,"payment_method":"","status":"Completed"}
+{"order_id":44,"customer_id":1044.0,"product_id":132,"quantity":4,"order_date":1672876800000,"payment_method":"","status":"Completed"}
+{"order_id":45,"customer_id":null,"product_id":112,"quantity":3,"order_date":1677196800000,"payment_method":"","status":"Returned"}
+{"order_id":46,"customer_id":1078.0,"product_id":112,"quantity":-1,"order_date":1694563200000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":47,"customer_id":1027.0,"product_id":117,"quantity":2,"order_date":1674000000000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":48,"customer_id":1060.0,"product_id":102,"quantity":2,"order_date":1678752000000,"payment_method":"PayPal","status":""}
+{"order_id":49,"customer_id":1083.0,"product_id":131,"quantity":4,"order_date":1702339200000,"payment_method":"PayPal","status":"Cancelled"}
+{"order_id":50,"customer_id":1022.0,"product_id":137,"quantity":4,"order_date":1703030400000,"payment_method":"","status":"Returned"}
+{"order_id":51,"customer_id":1037.0,"product_id":114,"quantity":1,"order_date":1703030400000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":52,"customer_id":1048.0,"product_id":108,"quantity":1,"order_date":1682812800000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":53,"customer_id":1027.0,"product_id":123,"quantity":2,"order_date":1679356800000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":54,"customer_id":1017.0,"product_id":138,"quantity":1,"order_date":1690329600000,"payment_method":"Credit Card","status":"Returned"}
+{"order_id":55,"customer_id":1007.0,"product_id":144,"quantity":2,"order_date":1685145600000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":56,"customer_id":1085.0,"product_id":106,"quantity":4,"order_date":1696464000000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":57,"customer_id":1091.0,"product_id":109,"quantity":1,"order_date":1677024000000,"payment_method":"Debit Card","status":""}
+{"order_id":58,"customer_id":1086.0,"product_id":139,"quantity":4,"order_date":1686182400000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":59,"customer_id":1026.0,"product_id":141,"quantity":1,"order_date":1676246400000,"payment_method":"","status":"Returned"}
+{"order_id":60,"customer_id":1005.0,"product_id":109,"quantity":2,"order_date":1684972800000,"payment_method":"PayPal","status":"Returned"}
+{"order_id":61,"customer_id":1093.0,"product_id":126,"quantity":3,"order_date":1697673600000,"payment_method":"Debit Card","status":""}
+{"order_id":62,"customer_id":1018.0,"product_id":145,"quantity":1,"order_date":1702252800000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":63,"customer_id":1100.0,"product_id":110,"quantity":3,"order_date":1701302400000,"payment_method":"","status":"Completed"}
+{"order_id":64,"customer_id":1041.0,"product_id":129,"quantity":1,"order_date":1686960000000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":65,"customer_id":1050.0,"product_id":106,"quantity":4,"order_date":1680739200000,"payment_method":"Credit Card","status":"Pending"}
+{"order_id":66,"customer_id":1060.0,"product_id":144,"quantity":3,"order_date":1701820800000,"payment_method":"","status":"Completed"}
+{"order_id":67,"customer_id":1016.0,"product_id":130,"quantity":1,"order_date":1696723200000,"payment_method":"","status":"Returned"}
+{"order_id":68,"customer_id":1024.0,"product_id":111,"quantity":1,"order_date":1682380800000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":69,"customer_id":1074.0,"product_id":107,"quantity":2,"order_date":1693699200000,"payment_method":"Credit Card","status":""}
+{"order_id":70,"customer_id":1072.0,"product_id":116,"quantity":1,"order_date":1672876800000,"payment_method":"","status":""}
+{"order_id":71,"customer_id":1007.0,"product_id":129,"quantity":-1,"order_date":1704067200000,"payment_method":"Credit Card","status":""}
+{"order_id":72,"customer_id":1054.0,"product_id":117,"quantity":2,"order_date":1676851200000,"payment_method":"Debit Card","status":""}
+{"order_id":73,"customer_id":1065.0,"product_id":102,"quantity":1,"order_date":1676764800000,"payment_method":"PayPal","status":""}
+{"order_id":74,"customer_id":1067.0,"product_id":123,"quantity":1,"order_date":1696464000000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":75,"customer_id":1039.0,"product_id":125,"quantity":4,"order_date":1673049600000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":76,"customer_id":1019.0,"product_id":102,"quantity":1,"order_date":1691366400000,"payment_method":"","status":"Completed"}
+{"order_id":77,"customer_id":1029.0,"product_id":147,"quantity":4,"order_date":1700092800000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":78,"customer_id":1093.0,"product_id":124,"quantity":3,"order_date":1672963200000,"payment_method":"","status":"Completed"}
+{"order_id":79,"customer_id":1022.0,"product_id":105,"quantity":3,"order_date":1703289600000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":80,"customer_id":1018.0,"product_id":144,"quantity":3,"order_date":1679961600000,"payment_method":"","status":"Completed"}
+{"order_id":81,"customer_id":1055.0,"product_id":134,"quantity":3,"order_date":1677715200000,"payment_method":"Credit Card","status":""}
+{"order_id":82,"customer_id":1006.0,"product_id":114,"quantity":-1,"order_date":1676073600000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":83,"customer_id":1036.0,"product_id":148,"quantity":3,"order_date":1703462400000,"payment_method":"Credit Card","status":""}
+{"order_id":84,"customer_id":1034.0,"product_id":113,"quantity":1,"order_date":1683158400000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":85,"customer_id":1089.0,"product_id":126,"quantity":4,"order_date":1686960000000,"payment_method":"","status":"Pending"}
+{"order_id":86,"customer_id":1028.0,"product_id":133,"quantity":2,"order_date":1699747200000,"payment_method":"PayPal","status":"Cancelled"}
+{"order_id":87,"customer_id":1042.0,"product_id":120,"quantity":3,"order_date":1675900800000,"payment_method":"","status":"Pending"}
+{"order_id":88,"customer_id":1041.0,"product_id":144,"quantity":1,"order_date":1700179200000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":89,"customer_id":1056.0,"product_id":122,"quantity":1,"order_date":1700611200000,"payment_method":"Debit Card","status":""}
+{"order_id":90,"customer_id":1016.0,"product_id":132,"quantity":4,"order_date":1694995200000,"payment_method":"Debit Card","status":"Pending"}
+{"order_id":91,"customer_id":1028.0,"product_id":111,"quantity":3,"order_date":1703376000000,"payment_method":"","status":"Returned"}
+{"order_id":92,"customer_id":null,"product_id":146,"quantity":3,"order_date":1675382400000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":93,"customer_id":1034.0,"product_id":120,"quantity":2,"order_date":1683590400000,"payment_method":"PayPal","status":""}
+{"order_id":94,"customer_id":1033.0,"product_id":128,"quantity":4,"order_date":1699488000000,"payment_method":"PayPal","status":""}
+{"order_id":95,"customer_id":1073.0,"product_id":116,"quantity":3,"order_date":1690934400000,"payment_method":"Debit Card","status":""}
+{"order_id":96,"customer_id":1092.0,"product_id":139,"quantity":1,"order_date":1673913600000,"payment_method":"PayPal","status":"Cancelled"}
+{"order_id":97,"customer_id":1041.0,"product_id":150,"quantity":1,"order_date":1677801600000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":98,"customer_id":1035.0,"product_id":105,"quantity":2,"order_date":1695945600000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":99,"customer_id":1018.0,"product_id":102,"quantity":3,"order_date":1698537600000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":100,"customer_id":1089.0,"product_id":125,"quantity":1,"order_date":1697500800000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":101,"customer_id":1072.0,"product_id":112,"quantity":4,"order_date":1689379200000,"payment_method":"","status":"Cancelled"}
+{"order_id":102,"customer_id":1003.0,"product_id":106,"quantity":4,"order_date":1692316800000,"payment_method":"","status":"Returned"}
+{"order_id":103,"customer_id":"?","product_id":130,"quantity":4,"order_date":1674777600000,"payment_method":"PayPal","status":""}
+{"order_id":104,"customer_id":1028.0,"product_id":999,"quantity":1,"order_date":1692662400000,"payment_method":"","status":"Cancelled"}
+{"order_id":105,"customer_id":1017.0,"product_id":104,"quantity":3,"order_date":1682380800000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":106,"customer_id":1051.0,"product_id":143,"quantity":2,"order_date":1696204800000,"payment_method":"","status":"Returned"}
+{"order_id":107,"customer_id":1016.0,"product_id":112,"quantity":3,"order_date":1698192000000,"payment_method":"","status":""}
+{"order_id":108,"customer_id":1068.0,"product_id":101,"quantity":1,"order_date":1691798400000,"payment_method":"","status":"Cancelled"}
+{"order_id":109,"customer_id":1088.0,"product_id":117,"quantity":3,"order_date":1678579200000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":110,"customer_id":1091.0,"product_id":122,"quantity":3,"order_date":1691193600000,"payment_method":"","status":"Cancelled"}
+{"order_id":111,"customer_id":1044.0,"product_id":150,"quantity":2,"order_date":1672617600000,"payment_method":"PayPal","status":""}
+{"order_id":112,"customer_id":1072.0,"product_id":116,"quantity":1,"order_date":1692316800000,"payment_method":"Debit Card","status":""}
+{"order_id":113,"customer_id":1094.0,"product_id":105,"quantity":1,"order_date":1690243200000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":114,"customer_id":1048.0,"product_id":999,"quantity":1,"order_date":1701993600000,"payment_method":"Debit Card","status":""}
+{"order_id":115,"customer_id":1068.0,"product_id":116,"quantity":3,"order_date":1702771200000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":116,"customer_id":null,"product_id":125,"quantity":3,"order_date":1678147200000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":117,"customer_id":1057.0,"product_id":999,"quantity":4,"order_date":1695340800000,"payment_method":"Credit Card","status":"Returned"}
+{"order_id":118,"customer_id":1043.0,"product_id":140,"quantity":3,"order_date":1685404800000,"payment_method":"PayPal","status":""}
+{"order_id":119,"customer_id":1019.0,"product_id":145,"quantity":2,"order_date":1688860800000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":120,"customer_id":1033.0,"product_id":149,"quantity":4,"order_date":1682380800000,"payment_method":"PayPal","status":"Cancelled"}
+{"order_id":121,"customer_id":1090.0,"product_id":115,"quantity":1,"order_date":1687392000000,"payment_method":"Debit Card","status":""}
+{"order_id":122,"customer_id":null,"product_id":113,"quantity":3,"order_date":1700179200000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":123,"customer_id":1080.0,"product_id":110,"quantity":2,"order_date":1701388800000,"payment_method":"","status":"Cancelled"}
+{"order_id":124,"customer_id":1028.0,"product_id":112,"quantity":1,"order_date":1672876800000,"payment_method":"PayPal","status":""}
+{"order_id":125,"customer_id":1094.0,"product_id":116,"quantity":3,"order_date":1677801600000,"payment_method":"","status":"Pending"}
+{"order_id":126,"customer_id":1015.0,"product_id":143,"quantity":2,"order_date":1679356800000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":127,"customer_id":1057.0,"product_id":122,"quantity":2,"order_date":1683158400000,"payment_method":"Credit Card","status":""}
+{"order_id":128,"customer_id":"?","product_id":137,"quantity":3,"order_date":1682812800000,"payment_method":"Debit Card","status":""}
+{"order_id":129,"customer_id":null,"product_id":111,"quantity":3,"order_date":1691539200000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":130,"customer_id":1001.0,"product_id":147,"quantity":1,"order_date":1696896000000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":131,"customer_id":1025.0,"product_id":115,"quantity":2,"order_date":1694476800000,"payment_method":"Debit Card","status":""}
+{"order_id":132,"customer_id":1065.0,"product_id":108,"quantity":3,"order_date":1696464000000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":133,"customer_id":null,"product_id":142,"quantity":2,"order_date":1680566400000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":134,"customer_id":1003.0,"product_id":113,"quantity":4,"order_date":1687564800000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":135,"customer_id":1044.0,"product_id":110,"quantity":4,"order_date":1678060800000,"payment_method":"","status":"Returned"}
+{"order_id":136,"customer_id":1031.0,"product_id":101,"quantity":1,"order_date":1701648000000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":137,"customer_id":1088.0,"product_id":114,"quantity":4,"order_date":1691539200000,"payment_method":"","status":""}
+{"order_id":138,"customer_id":1086.0,"product_id":112,"quantity":1,"order_date":1676160000000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":139,"customer_id":1038.0,"product_id":110,"quantity":3,"order_date":1703721600000,"payment_method":"Debit Card","status":"Pending"}
+{"order_id":140,"customer_id":1100.0,"product_id":136,"quantity":4,"order_date":1687219200000,"payment_method":"","status":"Pending"}
+{"order_id":141,"customer_id":1043.0,"product_id":102,"quantity":2,"order_date":1677888000000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":142,"customer_id":1018.0,"product_id":123,"quantity":2,"order_date":1692835200000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":143,"customer_id":1097.0,"product_id":145,"quantity":1,"order_date":1698883200000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":144,"customer_id":1100.0,"product_id":103,"quantity":4,"order_date":1673827200000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":145,"customer_id":1040.0,"product_id":138,"quantity":4,"order_date":1674172800000,"payment_method":"","status":"Returned"}
+{"order_id":146,"customer_id":1077.0,"product_id":128,"quantity":4,"order_date":1704067200000,"payment_method":"","status":"Cancelled"}
+{"order_id":147,"customer_id":1094.0,"product_id":116,"quantity":3,"order_date":1675900800000,"payment_method":"PayPal","status":"Cancelled"}
+{"order_id":148,"customer_id":1015.0,"product_id":126,"quantity":2,"order_date":1672963200000,"payment_method":"Debit Card","status":""}
+{"order_id":149,"customer_id":1081.0,"product_id":115,"quantity":2,"order_date":1684022400000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":150,"customer_id":1015.0,"product_id":109,"quantity":3,"order_date":1703030400000,"payment_method":"PayPal","status":""}
+{"order_id":151,"customer_id":1002.0,"product_id":133,"quantity":1,"order_date":1697932800000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":152,"customer_id":"?","product_id":133,"quantity":3,"order_date":1684022400000,"payment_method":"Credit Card","status":""}
+{"order_id":153,"customer_id":1058.0,"product_id":107,"quantity":1,"order_date":1700092800000,"payment_method":"","status":"Pending"}
+{"order_id":154,"customer_id":1039.0,"product_id":128,"quantity":2,"order_date":1688601600000,"payment_method":"Credit Card","status":"Pending"}
+{"order_id":155,"customer_id":1023.0,"product_id":126,"quantity":3,"order_date":1699574400000,"payment_method":"","status":"Returned"}
+{"order_id":156,"customer_id":1090.0,"product_id":139,"quantity":3,"order_date":1692921600000,"payment_method":"PayPal","status":""}
+{"order_id":157,"customer_id":1037.0,"product_id":131,"quantity":4,"order_date":1697328000000,"payment_method":"Credit Card","status":""}
+{"order_id":158,"customer_id":"?","product_id":110,"quantity":4,"order_date":1689033600000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":159,"customer_id":1003.0,"product_id":110,"quantity":4,"order_date":1692921600000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":160,"customer_id":1056.0,"product_id":123,"quantity":2,"order_date":1703721600000,"payment_method":"","status":""}
+{"order_id":161,"customer_id":1001.0,"product_id":146,"quantity":4,"order_date":1688256000000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":162,"customer_id":"?","product_id":149,"quantity":2,"order_date":1685145600000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":163,"customer_id":1089.0,"product_id":127,"quantity":2,"order_date":1699228800000,"payment_method":"Credit Card","status":""}
+{"order_id":164,"customer_id":1073.0,"product_id":130,"quantity":3,"order_date":1698364800000,"payment_method":"","status":"Cancelled"}
+{"order_id":165,"customer_id":1092.0,"product_id":110,"quantity":1,"order_date":1694736000000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":166,"customer_id":1021.0,"product_id":129,"quantity":4,"order_date":1735689600000,"payment_method":"Debit Card","status":""}
+{"order_id":167,"customer_id":1052.0,"product_id":130,"quantity":4,"order_date":1685232000000,"payment_method":"","status":""}
+{"order_id":168,"customer_id":1003.0,"product_id":105,"quantity":3,"order_date":1689379200000,"payment_method":"Credit Card","status":""}
+{"order_id":169,"customer_id":1035.0,"product_id":110,"quantity":1,"order_date":1684281600000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":170,"customer_id":1064.0,"product_id":122,"quantity":3,"order_date":1687996800000,"payment_method":"","status":"Pending"}
+{"order_id":171,"customer_id":1095.0,"product_id":127,"quantity":4,"order_date":1698451200000,"payment_method":"PayPal","status":""}
+{"order_id":172,"customer_id":1043.0,"product_id":150,"quantity":-1,"order_date":1681516800000,"payment_method":"Debit Card","status":"Pending"}
+{"order_id":173,"customer_id":1013.0,"product_id":130,"quantity":2,"order_date":1701648000000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":174,"customer_id":null,"product_id":103,"quantity":4,"order_date":1697068800000,"payment_method":"Debit Card","status":""}
+{"order_id":175,"customer_id":1009.0,"product_id":999,"quantity":1,"order_date":1678838400000,"payment_method":"PayPal","status":"Cancelled"}
+{"order_id":176,"customer_id":1030.0,"product_id":126,"quantity":2,"order_date":1685664000000,"payment_method":"Debit Card","status":"Cancelled"}
+{"order_id":177,"customer_id":1061.0,"product_id":115,"quantity":3,"order_date":1680048000000,"payment_method":"Debit Card","status":"Completed"}
+{"order_id":178,"customer_id":1033.0,"product_id":128,"quantity":2,"order_date":1691798400000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":179,"customer_id":1046.0,"product_id":143,"quantity":2,"order_date":1696809600000,"payment_method":"Debit Card","status":""}
+{"order_id":180,"customer_id":1017.0,"product_id":129,"quantity":1,"order_date":1680307200000,"payment_method":"PayPal","status":"Returned"}
+{"order_id":181,"customer_id":1038.0,"product_id":106,"quantity":4,"order_date":1698278400000,"payment_method":"Credit Card","status":""}
+{"order_id":182,"customer_id":1053.0,"product_id":109,"quantity":2,"order_date":1681084800000,"payment_method":"Credit Card","status":"Completed"}
+{"order_id":183,"customer_id":"?","product_id":147,"quantity":4,"order_date":1735689600000,"payment_method":"Credit Card","status":""}
+{"order_id":184,"customer_id":1010.0,"product_id":105,"quantity":1,"order_date":1678579200000,"payment_method":"","status":""}
+{"order_id":185,"customer_id":1085.0,"product_id":135,"quantity":4,"order_date":1683417600000,"payment_method":"Credit Card","status":"Pending"}
+{"order_id":186,"customer_id":1050.0,"product_id":132,"quantity":2,"order_date":1691020800000,"payment_method":"Credit Card","status":""}
+{"order_id":187,"customer_id":1094.0,"product_id":148,"quantity":1,"order_date":1683158400000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":188,"customer_id":1076.0,"product_id":145,"quantity":3,"order_date":1680566400000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":189,"customer_id":1075.0,"product_id":120,"quantity":4,"order_date":1684454400000,"payment_method":"PayPal","status":"Completed"}
+{"order_id":190,"customer_id":1060.0,"product_id":138,"quantity":3,"order_date":1735689600000,"payment_method":"Credit Card","status":"Returned"}
+{"order_id":191,"customer_id":1046.0,"product_id":127,"quantity":1,"order_date":1699228800000,"payment_method":"PayPal","status":""}
+{"order_id":192,"customer_id":1042.0,"product_id":141,"quantity":4,"order_date":1699488000000,"payment_method":"Debit Card","status":""}
+{"order_id":193,"customer_id":1095.0,"product_id":148,"quantity":4,"order_date":1688256000000,"payment_method":"PayPal","status":"Pending"}
+{"order_id":194,"customer_id":1015.0,"product_id":126,"quantity":2,"order_date":1691020800000,"payment_method":"Debit Card","status":"Pending"}
+{"order_id":195,"customer_id":1029.0,"product_id":149,"quantity":3,"order_date":1679270400000,"payment_method":"Credit Card","status":"Pending"}
+{"order_id":196,"customer_id":1050.0,"product_id":113,"quantity":4,"order_date":1735689600000,"payment_method":"Debit Card","status":"Returned"}
+{"order_id":197,"customer_id":1075.0,"product_id":128,"quantity":2,"order_date":1702339200000,"payment_method":"Credit Card","status":"Cancelled"}
+{"order_id":198,"customer_id":1024.0,"product_id":115,"quantity":2,"order_date":1702252800000,"payment_method":"Debit Card","status":""}
+{"order_id":199,"customer_id":1082.0,"product_id":103,"quantity":3,"order_date":1694390400000,"payment_method":"","status":"Completed"}
+{"order_id":200,"customer_id":1080.0,"product_id":139,"quantity":3,"order_date":1674172800000,"payment_method":"PayPal","status":"Returned"}

@@ -1,0 +1,9 @@
+01:24:26	Ahsan Jawaid:	Showing this error
+01:26:06	Anjum Raza:	Sir kindly code again explain krdy starting sy ? k hum ismy kia find krna chah rhy hai ? What is our goal ?
+01:31:44	Ahsan Jawaid:	Sir Code run hogya hai but graph show nahe horha, I tried 2 times, no issues in code but graph show nahe horha
+01:41:59	Ahsan Jawaid:	Graph not working
+01:42:11	Ahsan Jawaid:	kernel bhe restart krke check krlia hai
+01:46:34	Haneen Aijaz:	code run kr liya hai
+01:50:24	Haneen Aijaz:	yes
+02:39:57	Ahsan Jawaid:	Showing error
+02:40:17	Ahsan Jawaid:	ok
